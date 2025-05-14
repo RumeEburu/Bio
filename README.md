@@ -1,12 +1,49 @@
-- 👋 Hi, I’m @Rume2733
-- 👀 I’m interested in Data Analytics Role
-- 🌱 I’m currently learning Excel & Power Bi
-- 💞️ I’m looking to collaborate on Building Data Projects
-- 📫 How to reach me Rume Eburu on all Media
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I am one of the best singers on earth
+# Hi, I'm Rume Eburu
 
-<!---
-Rume2733/Rume2733 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Data Driven Professional | Data Consultant | Instructor | Data & Analytics Analyst
+
+I'm a data analyst and problem solver passionate about helping businesses grow using data. I've worked with one of the top Data Analytics Institutes globally — Skillahead Academy — where I empower upcoming data professionals to become confident analysts through mentorship and hands-on training.
+
+
+
+## What I do:
+- Analyze and manipulate data using Excel.
+
+- Automate and clean data using Power Query.
+
+- Design dashboards and visual reports in Power BI.
+
+- Teach and tutor aspiring analysts in data analytics.
+
+- Build reports for businesses and companies to uncover trends and make smarter decisions.
+
+- Increase team productivity through data — one dashboard project led to a 30% performance boost.
+
+
+
+## My Vision:
+To lead a data consultancy that empowers businesses to make smarter, bold decisions using data.
+
+
+## Tools & Skill Set
+**Excel** – Data Analysis, Formulas, Lookup Functions
+
+**Power Query** – Data Automation, Cleaning, Transformation
+
+**Pivot Tables** – Visualization, Summarization
+
+**Power BI** – Interactive Dashboards, DAX, Advanced Reporting
+
+**Reporting** – Business Reports, KPI Dashboards, Executive Summaries
+
+**Teaching** – Data Analytics Training, Coaching & Mentorship
+
+
+## Contact Me
+ -  [Email](rume964@gmail.com)
+
+ - [Whatsapp](https://wa.me/message/VRZHY53VTYWIJ1)
+
+ -  [LinkedIn](www.linkedin.com/in/rumeeburu)
+
+*“Helping people and businesses see clearly through data.”**
