@@ -2,7 +2,7 @@
 
 ## Data Driven Professional | Data Consultant | Instructor | Data & Analytics Analyst
 
-I'm a data analyst and problem solver passionate about helping businesses grow using data. I've worked with one of the top Data Analytics Institutes globally — Skillahead Academy — where I empower upcoming data professionals to become confident analysts through mentorship and hands-on training.
+I'm a data analyst and problem solver passionate about helping businesses grow using data. I've worked with one of the top Data Analytics Institutes globally, Skillahead Academe, where I empower upcoming data professionals to become confident analysts through mentorship and hands-on training.
 
 
 
@@ -20,11 +20,6 @@ I'm a data analyst and problem solver passionate about helping businesses grow u
 - Increase team productivity through data — one dashboard project led to a 30% performance boost.
 
 
-
-## My Vision:
-To lead a data consultancy that empowers businesses to make smarter, bold decisions using data.
-
-
 ## Tools & Skill Set
 **Excel** – Data Analysis, Formulas, Lookup Functions
 
@@ -40,6 +35,8 @@ To lead a data consultancy that empowers businesses to make smarter, bold decisi
 
 
 ## Contact Me
+ -  [YouTube](https://www.youtube.com/channel/UCbwj4aTQbv4tsWEAlPwUf8Q)
+  
  -  [Email](rume964@gmail.com)
 
  - [Whatsapp](https://wa.me/message/VRZHY53VTYWIJ1)
